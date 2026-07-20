@@ -186,12 +186,14 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ankushkushwaha1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ffd5&icon_color=7b2ff7&text_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankushkushwaha1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffd5&text_color=ffffff&langs_count=7" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ankushkushwaha1&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankushkushwaha1&layout=compact&theme=radical&langs_count=6" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankushkushwaha1&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ffd5&ring=7b2ff7&fire=ff2a5f&currStreakNum=ffffff&sideNums=00ffd5&currStreakLabel=7b2ff7&sideLabels=ffffff&dates=888888" />
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankushkushwaha1&theme=radical" />
 </div>
 
 ---
@@ -199,15 +201,15 @@
 ## 🏆 Achievements & Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ankushkushwaha1&theme=tokyonight&column=7&margin-w=12&margin-h=12&no-bg=true&no-frame=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ankushkushwaha1&theme=flat&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
 
-## 🐍 Contribution Activity
+## 🐍 Contribution Activity (Light Mode)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ankushkushwaha1/Ankushkushwaha1/main/github-contribution-grid-snake-dark.svg" alt="Snake animation dark" width="100%" />
+  <img src="https://raw.githubusercontent.com/Ankushkushwaha1/Ankushkushwaha1/main/github-contribution-grid-snake.svg" alt="Snake animation light" width="100%" />
 </div>
 
 ---
