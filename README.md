@@ -79,22 +79,25 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📋 Master SSD Technical Audit Report</h3>
+      <h3 align="center">🛡️ mytext.me — Anonymous Share Portal</h3>
       <div align="center">
-        <a href="https://github.com/Ankushkushwaha1/ssd-projects-report">
-          <img src="https://img.shields.io/badge/GitHub-Repository-ff2a5f?style=for-the-badge&logo=github" />
+        <a href="https://mytext-red.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-Click_to_Experience-7b2ff7?style=for-the-badge&logo=google-chrome&logoColor=white" />
+        </a><br/>
+        <a href="https://github.com/Ankushkushwaha1/mytext">
+          <img src="https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github" />
         </a>
       </div>
       <br/>
       <p>
-        📦 60+ projects architecturally documented & categorized<br/>
-        📱 Android Kotlin system & NFC hardware integration<br/>
-        🔍 Computer Vision, sensor fusion & IoT architecture<br/>
-        📐 Enterprise-grade system design patterns & diagrams<br/>
-        🏗️ Security audit, dependency analysis & tech-debt review
+        🔒 Secure, account-free text & file sharing platform<br/>
+        ⚡ Instant Next.js App Router & serverless PostgreSQL speed<br/>
+        💥 "Burn after reading" self-destruction trigger logic<br/>
+        📁 File streaming with private disk vault isolation<br/>
+        🛡️ Password-hashing secure access validation checks
       </p>
       <p align="center">
-        <code>System Architecture</code> <code>Android SDK</code> <code>Kotlin</code> <code>NFC/BLE</code>
+        <code>Next.js 16</code> <code>Prisma ORM</code> <code>PostgreSQL</code> <code>Tailwind v4</code> <code>TypeScript</code>
       </p>
     </td>
   </tr>
