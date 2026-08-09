@@ -81,7 +81,7 @@
     <td width="50%" valign="top">
       <h3 align="center">🛡️ mytext.me — Anonymous Share Portal</h3>
       <div align="center">
-        <a href="https://mytext-red.vercel.app" target="_blank">
+        <a href="https://mytext.me/" target="_blank">
           <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-Click_to_Experience-7b2ff7?style=for-the-badge&logo=google-chrome&logoColor=white" />
         </a><br/>
         <a href="https://github.com/Ankushkushwaha1/mytext">
@@ -226,6 +226,9 @@
   </a>&nbsp;&nbsp;
   <a href="https://github.com/Ankushkushwaha1">
     <img src="https://img.shields.io/badge/GitHub-Ankushkushwaha1-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://mytext.me/">
+    <img src="https://img.shields.io/badge/🛡️_Live_Project-mytext.me-7b2ff7?style=for-the-badge" />
   </a>&nbsp;&nbsp;
   <a href="https://ankushkushwaha1.github.io/3D-Heart-simulation/">
     <img src="https://img.shields.io/badge/🫀_Live_Project-CardioSim_3D-00ffd5?style=for-the-badge" />
